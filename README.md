@@ -13,6 +13,9 @@ The Shuttle Management System is a comprehensive solution designed to provide ef
 - **Bus Transfer**: Allow students to change buses for optimal route selection
 - **Trip History**: Detailed booking records and fare deduction history
 
+## Documentation ([https://example.com](https://docs.google.com/document/d/1a3Z8eEI4hzyIAZa24AIz5CUWfbM_ZcwmgPo9XVj63JU/edit?usp=sharing))
+
+
 ## Tech Stack
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
